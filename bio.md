@@ -4,6 +4,8 @@ My hobbies include writing satire, making food items like bread, beer, cheese, e
 and trying to stay in good shape with whatever activity interests me.
 I live in Thousand Oaks, which is on the outskirts of Los Angeles and on the other side of the 
 mountains from Malibu. 
+I grew up in Kansas City and went to college at UC Santa Cruz and law school at UCLA and never
+left CA.
 
 Programming Background
 
