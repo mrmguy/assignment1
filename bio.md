@@ -7,3 +7,6 @@ Programming Background
 
 I haven't had any real prior programming experience prior to starting this program last summer. I 
 did try to learn some programming basics on my own when I had the time.
+
+I took 165 and it was a bit of a challenge but the prior experience I did have was on a Mac using 
+Xcode I had some specific familiarity with C++. I think that made it a little easier for me. 
