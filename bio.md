@@ -5,3 +5,5 @@ and trying to stay in good shape with whatever activity interests me.
 
 Programming Background
 
+I haven't had any real prior programming experience prior to starting this program last summer. I 
+did try to learn some programming basics on my own when I had the time.
